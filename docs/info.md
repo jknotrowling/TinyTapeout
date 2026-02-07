@@ -16,3 +16,4 @@ everything is under developemnet and doesnt work!!
 don't
 
 ## External Hardware
+jkcejanclksn
