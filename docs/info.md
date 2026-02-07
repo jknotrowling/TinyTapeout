@@ -11,3 +11,6 @@ You can also include images in this folder and reference them in the markdown. E
 
 everything is under developemnet and doesnt work!!
 
+## How to test
+
+don't
