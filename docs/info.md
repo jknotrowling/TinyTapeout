@@ -14,3 +14,5 @@ everything is under developemnet and doesnt work!!
 ## How to test
 
 don't
+
+## External Hardware
